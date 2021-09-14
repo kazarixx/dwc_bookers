@@ -23,4 +23,3 @@ Things you may want to cover:
 
 * ...
 
-[middle]showのredirectまで完成9/14
