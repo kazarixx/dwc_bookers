@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+   <% flash.each do |key, value| %>
+   <p><%= value %><p>
+     <% end %>
   <head>
     <title>BOOKERS</title>
     <%= csrf_meta_tags %>
