@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-[middlr]showのredirectまで完成9/14
+[middle]showのredirectまで完成9/14
